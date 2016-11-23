@@ -45,19 +45,70 @@ Os administradores podem ter acessos a relatórios. Entre os relatórios é impo
 
 ####5.2 DECISÕES DE PROJETO
     [atributo]: [descrição da decisão]
-    
+    Registro Militar: Optamos por incluir uma tabela que armazena-se o registro militar dos médicos pois, em caso de emergencia poderia-    se buscar os médicos reservistar do exercito.
+    /*
     EXEMPLO:
     a) Campo endereço: em nosso projeto optamos por um campo multivalorado e composto, pois a empresa 
     pode possuir para cada departamento mais de uma localização... 
     b) justifique!
+    */
 
 ####5.3 DESCRIÇÃO DOS DADOS 
-    [objeto]: [descrição do objeto]
-    
+    //[objeto]: [descrição do objeto]
+   Medico : Tabela que Armazena as informações relativas aos médicos
+   id: Código identificador do resgistro do médico
+   nome: Nome do médico
+   Registro_conselho: Registro do médico no conselho regional de medicina
+   crm: Sigla identificadora da região no qual o médico é cadastrado pelo conselho.
+   cod_vaga: código da vaga ao qual o médico está atendendo.
+   disponibilidade: Indica se o médico esta ou não disponivel para Remanejamento
+   qtd_atendimento: Indica a quantidade de atendimentos que o médico possui registrado.
+   cod_localidade: Indica a localidade em que o médico esta situado.
+   
+   Medico_especialidade: Tabela que armazena o código do médico e o código das suas respectvas especialidades.
+   cod_médico: Indica o código do médico
+   cod_especialidade: indica o código da especialidade
+   
+   Especialidade: Tabela que registra as especialidade reconhecidas pelo Ministerio da Saude.
+   id: código identificador do registro da especialidade
+   nome: Indica o nome da especialidade.
+   
+   especialidade_doença: tabela que armazena o código da especialidade e das doenças relativas a essa especialidade.
+   cod_especialidade: Indica o código da especialidade
+   cod_doença: Indica o código da doença
+   
+   Doença: tabela que armazena as doenças reconhecidas pelo Ministério da Saude.
+   id: código identificador do registro da doença
+   nome: Indica o nome da doença, ou como foi identificada pelo médico.
+   
+   localidade: tabela que armazena os municipios do Brasil.
+   id:código identificador do registro do municipio
+   municipio: Indica o nome do municipio
+   cod_estado: indica o nome do estado ao qual esse municipio pertence.
+   
+   Estado: Tabela que armazena o nome dos estados do Brasil.
+   id:código identificador do registro do municipio
+   estado: Indica o nome do estado.
+   UF: indica a Sigla do estado
+   
+   Registro_Militar: Tabela que armazena o registro militar dos médicos.
+   cod_médico: indica o código do médico
+   resgistro: indica o registro militar do relacionado ao médico.
+   
+   Administardor: Tabela que armazena os dados do usuario "administardor"
+   nome: indica o nome do usuario
+   registro: indica o registro do usuario no SUS.
+   login: nome de usuario para acesso ao sistema
+   senha: código do usuaroi para validação do acesso.
+   
+   vaga: Tabela que Armazena as vagas disponiveis no sistema.
+   
+   
+   /*
     EXEMPLO:
     CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
     CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
-
+    */
 
 ###6	MODELO LÓGICO<br>
 ![Alt text](https://github.com/edsonsb96/trab01/blob/master/trab-final-logico.jpg "Modelo Lógico")
