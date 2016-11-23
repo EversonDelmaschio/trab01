@@ -4,11 +4,11 @@ Trabalho desenvolvido durante a disciplina de BD
 #Sumário
 
 ###1	COMPONENTES<br>
-Edson Simões Boldrini e Everson Delmaschio<br>
+Everson Delmaschio<br>
 
 ###2	INTRODUÇÃO E MOTIVAÇAO<br>
-Este documento contém a especificação do projeto do banco de dados docmove e motivação da escolha realizada. <br>
-O projeto Docmove seria usado a princípio pelo Sistema Único de Saúde podendo ser utilizado em outras redes de médicos no Brasil e no mundo. Esse projeto tenta atender a demanda de remanejamento de médicos dentro dessas redes, um sistema com uma base de dados grande que avalia muitas possibilidades na hora de remanejar um médico. <br> 
+Este documento contém a especificação do projeto do banco de dados SUS++ e motivação da escolha realizada. <br>
+O projeto SUS++ seria usado a princípio pelo Sistema Único de Saúde podendo ser utilizado em outras redes de médicos no Brasil e no mundo. O objetivo principal desde projeto é providenciar rapida realocação de mpedicos em casos de emergencias. Porem oo mesmo tambem poderá ser utilizado para um melhor aproveitamento da mão de obra do SUS. Com base em analises poderam ser cadastrados um serie de vagas para as especialidades que as regiões mais necessitam, e os medicos cadastrados no sistema seram convidados a serem realocados para estes locais onde sua formação pode ser meçhor aproveitada. <br> 
 
 ###3	MINI-MUNDO<br>
 O Ministério público de saúde deseja um sistema para dar apoio ao Sistema de saúde do Brasil. O objetivo principal do sistema é ser capaz de mobilizar os médicos do sistema SUS em casos de emergência. Além disso o sistema também irá dar apoio ao cadastramento de
