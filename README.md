@@ -24,8 +24,8 @@ para viagem ou realocação. Caso um médico seja solicitado ele irá receber um
 Os administradores podem ter acessos a relatórios. Entre os relatórios é importante saber: quais cidades possuem alguma emergência, quais emergências estão sendo atendidas, os médicos que possuem registro militar entre outros. <br>
 
 ###4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20Login.png)
 ![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20Inicial.png)
+https://github.com/EversonDelmaschio/trab01/blob/master/projeto%20BD.bmpr
 
 
 ###5	MODELO CONCEITUAL<br>
