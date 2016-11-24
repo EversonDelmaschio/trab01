@@ -26,12 +26,7 @@ Os administradores podem ter acessos a relatórios. Entre os relatórios é impo
 ###4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 ![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20Login.png)
 ![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20Inicial.png)
-![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20Consulta.png)
-![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20%20solcita%C3%A7%C3%A3o.png)
-![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20cadastro%20vaga.png)
-![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20Cadastro%20emergencia.png)
-![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20Relatorios.png)
-![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20de%20Graficos.png)
+
 
 ###5	MODELO CONCEITUAL<br>
     5.1 NOTACAO ENTIDADE RELACIONAMENTO
