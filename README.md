@@ -109,9 +109,11 @@ https://github.com/EversonDelmaschio/trab01/blob/master/projeto%20BD.bmpr
 ![Alt text](https://github.com/edsonsb96/trab01/blob/master/trab-final-logico.jpg "Modelo Lógico")
 
 ###7	MODELO FÍSICO<br>
-https://github.com/edsonsb96/trab01/blob/master/modelo%20_Fisico-final.sql
+https://github.com/EversonDelmaschio/trab01/blob/master/Modelo_Fisico.sql
 
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
+https://github.com/EversonDelmaschio/trab01/tree/master/Tabelas
+
 ####8.1 DETALHAMENTO DAS INFORMAÇÕES
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
         Referenciar todas as fontes referentes a :
