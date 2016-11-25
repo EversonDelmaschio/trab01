@@ -117,10 +117,13 @@ https://github.com/EversonDelmaschio/trab01/blob/master/Modelo_Fisico.sql
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
         Referenciar todas as fontes referentes a :
         a) obtenção dos dados
-        A obtenção dos dados foi feita através da extração de informações disponilizadas pelos sites do IBGE e MINISTÉRIO DA SAUDE por           meio de planilhas. Foi utilizado um programa em Java para fazer a leitura dos dados da planilha e gerar os arquivos .txt usados         para fazer a inserção no banco de dados.
+        A obtenção dos dados foi feita através da extração de informações disponilizadas pelos sites do IBGE e MINISTÉRIO DA SAUDE<br> 
+        por meio de planilhas. Foi utilizado um programa em Java para fazer a leitura dos dados da planilha e gerar os arquivos <br> 
+        .txt usados para fazer a inserção no banco de dados. <br> 
         
         b) obtenção de códigos reutilizados
-        Não houve reaproveitamento de códigos na alimentação do banco. Apenas na geração do programa para leitura de aqrquivos em excel.
+        Não houve reaproveitamento de códigos na alimentação do banco. Apenas na geração do programa para leitura de <br>  
+        arquivos em excel.<br> 
         
         c) fontes de estudo para desenvolvimento do projeto
         Site utilizado para obtenção das bases de dados:
