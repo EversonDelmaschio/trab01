@@ -124,11 +124,9 @@ Os administradores podem ter acessos a relatórios. Entre os relatórios é impo
    
    
    
-   /*
     EXEMPLO:
     CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
     CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
-    */
 
 ###6	MODELO LÓGICO<br>
 ![Alt text](https://github.com/edsonsb96/trab01/blob/master/trab-final-logico.jpg "Modelo Lógico")
