@@ -25,12 +25,12 @@ Os administradores podem ter acessos a relatórios. Entre os relatórios é impo
 
 ###4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 ![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20Inicial.png)
-![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/projeto%20BD.bmpr)
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/projeto%20BD.bmpr)<br>
 
 
 ###5	MODELO CONCEITUAL<br>
     5.1 NOTACAO ENTIDADE RELACIONAMENTO
-![Alt text](https://github.com/edsonsb96/trab01/blob/master/trab-final-conceitual.jpg "Modelo Conceitual")
+![Alt text](https://github.com/edsonsb96/trab01/blob/master/trab-final-conceitual.jpg "Modelo Conceitual")<br>
     
     5.2 NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
