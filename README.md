@@ -41,6 +41,10 @@ Os administradores podem ter acessos a relatórios. Entre os relatórios é impo
 ####5.2 DECISÕES DE PROJETO<br>
     [atributo]: [descrição da decisão]
     Registro Militar: Optamos por incluir uma tabela que armazena-se o registro militar dos médicos pois, em caso de emergencia poderia-    se buscar os médicos reservistar do exercito.
+    
+    Vaga.qtd_medicos: Este atributo identifica a quantidade de medicos necessarios para o atendimento da vaga. Foi decidido que o           controle da quantidade de médicos que poderam se relacionar com a vaga será feito pela aplicação. 
+    
+    
     /*
     EXEMPLO:
     a) Campo endereço: em nosso projeto optamos por um campo multivalorado e composto, pois a empresa 
@@ -97,6 +101,27 @@ Os administradores podem ter acessos a relatórios. Entre os relatórios é impo
    senha: código do usuaroi para validação do acesso.
    
    vaga: Tabela que Armazena as vagas disponiveis no sistema.
+   descrição: Indica a descrição da vaga
+   nivel_requisição: Indica o nivel de necessidade da vaga.(ex: alta, media, baixa)
+   tipo_requisição: indica qual a finalidade da vaga (ex: viagem ou realocação)
+   id: Código indentificador do registro.
+   data: Indica a data em que aquela vaga foi criada.
+   cod_administrador: Indica o administrador responsavel pela criação da vaga.
+   cod_especialidade: Indica a especialidade a qual aquela vaga esta relacionada.
+   cod_localidade: Indica o municipio no qual aquela vaga esta localizada.
+   cod_doença: Indica a qual doença gerou a criação da vaga.
+   qtd_casos: Indica a quantidade de casos registrados até o momento da criação da vaga.
+   qtd_medico: Indica a quantidade de medicos que a vaga solicita.
+   qtd_atendimento: Indica a quantidade de atendimentos minimos que o médico deve ter para atender a vaga.(apenas um mecanismo para        filtro de seleção de medicos)
+   
+   historico: Tabela que Armazena o a data e os medicos que atenderam as vagas.
+   data: Indica a data em que o médico foi direcionado para o atendimento daquela vaga.
+   cod_medico: código identificador do médico
+   cod_vaga: código identificador da vaga.
+   id: Código identificador do registro do atendimento a vaga. 
+   
+   
+   
    
    
    /*
