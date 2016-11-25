@@ -109,7 +109,7 @@ https://github.com/EversonDelmaschio/trab01/blob/master/projeto%20BD.bmpr
 ![Alt text](https://github.com/edsonsb96/trab01/blob/master/trab-final-logico.jpg "Modelo Lógico")
 
 ###7	MODELO FÍSICO<br>
-https://github.com/EversonDelmaschio/trab01/blob/master/Modelo_Fisico.sql
+![Alt text] (https://github.com/EversonDelmaschio/trab01/blob/master/Modelo_Fisico.sql)
 
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 
@@ -117,23 +117,23 @@ https://github.com/EversonDelmaschio/trab01/blob/master/Modelo_Fisico.sql
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
         Referenciar todas as fontes referentes a :
         a) obtenção dos dados
-        A obtenção dos dados foi feita através da extração de informações disponilizadas pelos sites do IBGE e MINISTÉRIO DA SAUDE<br> 
-        por meio de planilhas. Foi utilizado um programa em Java para fazer a leitura dos dados da planilha e gerar os arquivos <br> 
-        .txt usados para fazer a inserção no banco de dados. <br> 
+        A obtenção dos dados foi feita através da extração de informações disponilizadas pelos sites do 
+        IBGE e MINISTÉRIO DA SAUDE por meio de planilhas. Foi utilizado um programa em Java para fazer 
+        a leitura dos dados da planilha e gerar os arquivos .txt usados para fazer a inserção no banco de dados. 
         
         b) obtenção de códigos reutilizados
-        Não houve reaproveitamento de códigos na alimentação do banco. Apenas na geração do programa para leitura de <br>  
-        arquivos em excel.<br> 
+        Não houve reaproveitamento de códigos na alimentação do banco. Apenas na geração do 
+        programa para leitura de  arquivos em excel.
         
         c) fontes de estudo para desenvolvimento do projeto
         Site utilizado para obtenção das bases de dados:
-        http://www.ibge.gov.br/home/
+        ![Alt text](http://www.ibge.gov.br/home/)
         Site utilizado para obtenção das bases de dados:
-        http://portalsaude.saude.gov.br/
+        ![Alt text](http://portalsaude.saude.gov.br/)
         Site utilizado como base de informaões para geração do programa leitor de planilhas:
-        http://www.devmedia.com.br/lendo-e-escrevendo-arquivos-do-excel-com-a-api-jxl-parte-i/7328
+        ![Alt text](http://www.devmedia.com.br/lendo-e-escrevendo-arquivos-do-excel-com-a-api-jxl-parte-i/7328)
         Base de dados:
-        https://github.com/EversonDelmaschio/trab01/tree/master/Base_Dados
+        ![Alt text](https://github.com/EversonDelmaschio/trab01/tree/master/Base_Dados)
         
 ####8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
         a) inclusão das instruções para criação das tabelas e estruturas de amazenamento do BD
