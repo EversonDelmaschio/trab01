@@ -25,7 +25,7 @@ Os administradores podem ter acessos a relatórios. Entre os relatórios é impo
 
 ###4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 ![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20Inicial.png)
-https://github.com/EversonDelmaschio/trab01/blob/master/projeto%20BD.bmpr
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/projeto%20BD.bmpr)
 
 
 ###5	MODELO CONCEITUAL<br>
@@ -34,11 +34,11 @@ https://github.com/EversonDelmaschio/trab01/blob/master/projeto%20BD.bmpr
     
     5.2 NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
-####5.1 Validação do Modelo Conceitual
+####5.1 Validação do Modelo Conceitual<br>
     [Grupo01] -> [Ana Rubia] - Tabalho Validado
     [Grupo02] -> [André Barbosa] - Trabalho Validado
 
-####5.2 DECISÕES DE PROJETO
+####5.2 DECISÕES DE PROJETO<br>
     [atributo]: [descrição da decisão]
     Registro Militar: Optamos por incluir uma tabela que armazena-se o registro militar dos médicos pois, em caso de emergencia poderia-    se buscar os médicos reservistar do exercito.
     /*
@@ -48,7 +48,7 @@ https://github.com/EversonDelmaschio/trab01/blob/master/projeto%20BD.bmpr
     b) justifique!
     */
 
-####5.3 DESCRIÇÃO DOS DADOS 
+####5.3 DESCRIÇÃO DOS DADOS <br>
     //[objeto]: [descrição do objeto]
    Medico : Tabela que Armazena as informações relativas aos médicos
    id: Código identificador do resgistro do médico
@@ -113,7 +113,7 @@ https://github.com/EversonDelmaschio/trab01/blob/master/projeto%20BD.bmpr
 
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 
-####8.1 DETALHAMENTO DAS INFORMAÇÕES
+####8.1 DETALHAMENTO DAS INFORMAÇÕES<br>
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
         Referenciar todas as fontes referentes a :
         a) obtenção dos dados
@@ -135,7 +135,7 @@ https://github.com/EversonDelmaschio/trab01/blob/master/projeto%20BD.bmpr
         Base de dados:
         ![Alt text](https://github.com/EversonDelmaschio/trab01/tree/master/Base_Dados)
         
-####8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
+####8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS<br>
         a) inclusão das instruções para criação das tabelas e estruturas de amazenamento do BD
         As instruções utilizadas seguem acima no modelo Fisico apresentado.
         
