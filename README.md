@@ -132,44 +132,40 @@ Os administradores podem ter acessos a relatórios. Entre os relatórios é impo
 ![Alt text](https://github.com/edsonsb96/trab01/blob/master/trab-final-logico.jpg "Modelo Lógico")
 
 ###7	MODELO FÍSICO<br>
-![Modelo Fisico](https://github.com/EversonDelmaschio/trab01/blob/master/Modelo_Fisico.sql)
+[Modelo Fisico](https://github.com/EversonDelmaschio/trab01/blob/master/Modelo_Fisico.sql)
 
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 
 ####8.1 DETALHAMENTO DAS INFORMAÇÕES<br>
-        Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
-        Referenciar todas as fontes referentes a :
-        a) obtenção dos dados
-        A obtenção dos dados foi feita através da extração de informações disponilizadas pelos sites do 
-        IBGE e MINISTÉRIO DA SAUDE por meio de planilhas. Foi utilizado um programa em Java para fazer 
-        a leitura dos dados da planilha e gerar os arquivos .txt usados para fazer a inserção no banco de dados. 
-        
-        b) obtenção de códigos reutilizados
-        Não houve reaproveitamento de códigos na alimentação do banco. Apenas na geração do 
-        programa para leitura de  arquivos em excel.
-        
-        c) fontes de estudo para desenvolvimento do projeto
-        Site utilizado para obtenção das bases de dados:
-        ![IBGE](http://www.ibge.gov.br/home/)
-        Site utilizado para obtenção das bases de dados:
-        ![Alt text](http://portalsaude.saude.gov.br/)
-        Site utilizado como base de informaões para geração do programa leitor de planilhas:
-        ![Alt text](http://www.devmedia.com.br/lendo-e-escrevendo-arquivos-do-excel-com-a-api-jxl-parte-i/7328)
-        Base de dados:
-        ![Alt text](https://github.com/EversonDelmaschio/trab01/tree/master/Base_Dados)
+Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
+Referenciar todas as fontes referentes a :<br>
+a) obtenção dos dados<br>
+A obtenção dos dados foi feita através da extração de informações disponilizadas pelos sites do 
+IBGE e MINISTÉRIO DA SAUDE por meio de planilhas. Foi utilizado um programa em Java para fazer 
+a leitura dos dados da planilha e gerar os arquivos .txt usados para fazer a inserção no banco de dados. 
+
+b) obtenção de códigos reutilizados<br>
+Não houve reaproveitamento de códigos na alimentação do banco. Apenas na geração do 
+programa para leitura de  arquivos em excel.
+
+c) fontes de estudo para desenvolvimento do projeto <br>
+Site utilizado para obtenção das bases de dados:[IBGE](http://www.ibge.gov.br/home/)<br>
+Site utilizado para obtenção das bases de dados: [Ministério da Saude](http://portalsaude.saude.gov.br/)<br>
+Site utilizado como base de informaões para geração do programa leitor de planilhas: [Pesquisa Java](http://www.devmedia.com.br/lendo-e-escrevendo-arquivos-do-excel-com-a-api-jxl-parte-i/7328)<br>
+Base de dados: [Base de Dados](https://github.com/EversonDelmaschio/trab01/tree/master/Base_Dados)<br>
         
 ####8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS<br>
-        a) inclusão das instruções para criação das tabelas e estruturas de amazenamento do BD
-        As instruções utilizadas seguem acima no modelo Fisico apresentado.
+a) inclusão das instruções para criação das tabelas e estruturas de amazenamento do BD<br>
+As instruções utilizadas seguem acima no modelo Fisico apresentado.
+
+b) inclusão das instruções de inserção dos dados nas referidas tabelas<br>
+segue a baixo uma pasta com os arquivos .txt dos insert's aplicados nas tabelas.
+[TABELAS](https://github.com/EversonDelmaschio/trab01/tree/master/Tabelas)
         
-        b) inclusão das instruções de inserção dos dados nas referidas tabelas
-        segue a baixo uma pasta com os arquivos .txt dos insert's aplicados nas tabelas.
-        https://github.com/EversonDelmaschio/trab01/tree/master/Tabelas
-        
-        c) inclusão das instruções para execução de outros procedimentos necessários
-        a maior parte das alterações foram feitas pelos recursos de alteração do postgres ou aplicados diretamente no modelo fisico.
-        ex: Alteração de nome de variavel, alteração de tipo de variavel e alteração de tamanho de variavel.
-        na pasta acima segue algumas alterações que foram reaizadas.
+c) inclusão das instruções para execução de outros procedimentos necessários<br>
+a maior parte das alterações foram feitas pelos recursos de alteração do postgres ou aplicados diretamente no modelo fisico.
+ex: Alteração de nome de variavel, alteração de tipo de variavel e alteração de tamanho de variavel.
+na pasta acima segue algumas alterações que foram reaizadas.
 
 ###9	TABELAS E PRINCIPAIS CONSULTAS<br>
 ####9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS<br>
