@@ -134,7 +134,7 @@ Os administradores podem ter acessos a relatórios. Entre os relatórios é impo
 ![Alt text](https://github.com/edsonsb96/trab01/blob/master/trab-final-logico.jpg "Modelo Lógico")
 
 ###7	MODELO FÍSICO<br>
-![Alt text] (https://github.com/EversonDelmaschio/trab01/blob/master/Modelo_Fisico.sql)
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/Modelo_Fisico.sql "Modelo Fisico")
 
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 
@@ -152,7 +152,7 @@ Os administradores podem ter acessos a relatórios. Entre os relatórios é impo
         
         c) fontes de estudo para desenvolvimento do projeto
         Site utilizado para obtenção das bases de dados:
-        ![Alt text](http://www.ibge.gov.br/home/)
+        ![Alt text](http://www.ibge.gov.br/home/ "IBGE")
         Site utilizado para obtenção das bases de dados:
         ![Alt text](http://portalsaude.saude.gov.br/)
         Site utilizado como base de informaões para geração do programa leitor de planilhas:
