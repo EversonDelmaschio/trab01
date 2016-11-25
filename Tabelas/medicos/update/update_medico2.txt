@@ -1,0 +1,18 @@
+ update médico set cod_vaga = 1 where id = 209; 
+update médico set cod_vaga = 2 where id = 218; 
+update médico set cod_vaga = 3 where id = 227; 
+update médico set cod_vaga = 4 where id = 236; 
+update médico set cod_vaga = 5 where id = 245; 
+update médico set cod_vaga = 6 where id = 254; 
+update médico set cod_vaga = 7 where id = 263; 
+update médico set cod_vaga = 8 where id = 272; 
+update médico set cod_vaga = 9 where id = 281; 
+update médico set cod_vaga = 10 where id = 290; 
+update médico set cod_vaga = 11 where id = 299; 
+update médico set cod_vaga = 12 where id = 308; 
+update médico set cod_vaga = 13 where id = 317; 
+update médico set cod_vaga = 14 where id = 326; 
+update médico set cod_vaga = 15 where id = 335; 
+update médico set cod_vaga = 16 where id = 344; 
+update médico set cod_vaga = 17 where id = 353; 
+update médico set cod_vaga = 18 where id = 362; 

@@ -1,0 +1,1 @@
+INSERT INTO localidade(municipio, cod_estado) values ('AMAJARI', '23'), ('ALTO ALEGRE', '23'), ('BOA VISTA', '23'), ('BONFIM', '23'), ('CANTÁ', '23'), ('CARACARAÍ', '23'), ('CAROEBE', '23'), ('IRACEMA', '23'), ('MUCAJAÍ', '23'), ('NORMANDIA', '23'), ('PACARAIMA', '23'), ('RORAINÓPOLIS', '23'), ('SÃO JOÃO DA BALIZA', '23'), ('SÃO LUIZ', '23'), ('UIRAMUTÃ', '23');

@@ -1,0 +1,9 @@
+update médico set cod_vaga = 1 where id = 303; 
+update médico set cod_vaga = 2 where id = 306; 
+update médico set cod_vaga = 3 where id = 309; 
+update médico set cod_vaga = 4 where id = 312; 
+update médico set cod_vaga = 5 where id = 315; 
+update médico set cod_vaga = 6 where id = 318; 
+update médico set cod_vaga = 7 where id = 321; 
+update médico set cod_vaga = 8 where id = 324; 
+update médico set cod_vaga = 9 where id = 327; 

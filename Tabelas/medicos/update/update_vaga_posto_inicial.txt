@@ -1,0 +1,2 @@
+update medico set cod_vaga = 0 
+where cod_vaga is null;

@@ -1,0 +1,26 @@
+delete from vaga;
+insert into vaga (id,descricao,nivel_requisicao,tipo_requisicao,data,cod_localidade, cod_especialidade, cod_administrador, cod_doenca,qtd_casos,qtd_medico,qtd_atendimento) 
+values
+(0,'posto Original','pequena','cadastro','2010/11/25','5566','8', '1', '162',1,1,1), 
+(1,'Insuficiência cardíaca','Alta','Emergência','2016/11/25','2102','7', '1', '12',10,2,12),
+(2,'Insuficiência respiratória','Média','Realocação','2016/12/12','2104','10', '2', '24',2,1,4),
+(3,'Crise de gripe aviária','Alta','Emergência','2017/01/01','2106','13', '3', '36',50,10,60),
+(4,'Crise de chikungunya','Alta','Emergência','2017/01/10','2108','16', '4', '48',40,8,15),
+(5,'Traumatismo craniano','Alta','Emergência','2016/09/07','2110','19', '5', '60',4,1,6),
+(6,'Lesões nos ossos e articulações','Baixa','Realocação','2017/03/06','2112','22', '6', '72',8,2,10),
+(7,'Insuficiência respiratória','Alta','Emergência','2016/12/15','2114','25', '7', '84',2,1,4),
+(8,'Apendicite','Alta','Emergência','2016/06/09','2116','28', '7', '96',2,1,2),
+(9,'Virose','Pequena','Realocação','2016/03/11','2118','31', '7', '108',67,3,70),
+(10,'Diabetes','Pequena','Realocação','2017/04/02','2120','34', '1', '120',6,4,10),
+(11,'Osteosarcoma','Média','Realocação','2016/05/21','2122','37', '2', '132',5,1,8),
+(12,'Vaga para Pediatra','Média','Realocação','2017/05/30','2124','40', '4', '144',5,1,7),
+(13,'Rompimento de bolsa amniótica','Alta','Emergência','2016/07/23','2126','43', '6', '156',14,2,18),
+(14,'Vaga para Urologista','Média','Realocação','2017/05/21','2128','46', '3', '168',5,1,5),
+(15,'Hemorragia digestiva','Alta','Emergência','2016/08/17','2130','49', '7', '180',3,1,3),
+(16,'Queimaduras de 2º grau','Média','Realocação','2016/04/29','2132','52', '4', '192',4,1,6),
+(17,'Fratura exposta','Média','Emergência','2016/02/17','2134','1', '6', '204',7,2,10),
+(18,'Vaga para Neurocirurgião','Média','Realocação','2017/06/20','2136','58', '6', '216',2,2,5),
+(19,'Crise renal','Média','Realocação','2016/09/22','2138','61', '7', '228',4,1,4),
+(20,'Vaga para Psiquiatra','Baixa','Realocação','2017/10/25','2138','61', '7', '228',5,5,5);
+
+
