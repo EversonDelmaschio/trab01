@@ -1,0 +1,4 @@
+﻿select nome, concat(crm,'-',registro_conselho) as Registro_Técnico, disponibilidade, qtd_atendimento, municipio from médico
+inner join localidade on cod_localidade = localidade.id
+where qtd_atendimento > 20 and disponibilidade = 'viagem'
+order by qtd_atendimento desc;

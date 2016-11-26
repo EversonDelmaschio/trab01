@@ -1,0 +1,3 @@
+﻿select especialidade.nome, doença.nome, (doença.id) as codigo_doença, (especialidade.id) as cod_especilidade from doença
+inner join especialidade_doenca on cod_doença = doença.id
+inner join especialidade on especialidade.id = cod_especialidade; 

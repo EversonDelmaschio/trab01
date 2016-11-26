@@ -1,0 +1,7 @@
+﻿select (médico.nome) as medico, (especialidade.nome) as especialidade, municipio, estado from médico
+inner join medico_especialidade on médico.id = medico_especialidade.cod_medico
+inner join especialidade on medico_especialidade.cod_especialidade = especialidade.id
+inner join localidade on cod_localidade = localidade.id
+inner join estado on estado.id = cod_estado
+where estado = 'Acre'
+order by municipio; 
