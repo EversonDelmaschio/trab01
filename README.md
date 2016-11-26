@@ -168,9 +168,12 @@ ex: Alteração de nome de variavel, alteração de tipo de variavel e alteraç�
 na pasta acima segue algumas alterações que foram reaizadas.
 
 ###9	TABELAS E PRINCIPAIS CONSULTAS<br>
+
 ####9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS<br>
 ####9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE<br>
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/especialidadeXestado.png "ESPECIALIDADExESTADO")
 ####9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS<br>
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/consulta_medicoXviagem.png "MEDICOxVIAGEM")
 ####9.4	CONSULTAS QUE USAM OPERADORES LIKE<br>
 ####9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS<br>
 ####9.6	CONSULTAS COM JUNÇÃO<br>
