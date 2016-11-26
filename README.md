@@ -170,14 +170,18 @@ na pasta acima segue algumas alterações que foram reaizadas.
 ###9	TABELAS E PRINCIPAIS CONSULTAS<br>
 
 ####9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS<br>
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/consulta_vaga.png "VAGAS")
 ####9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE<br>
-![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/especialidadeXestado.png "ESPECIALIDADExESTADO")
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/especialidadeXestado.png "ESPECIALIDADES POR ESTADO")
 ####9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS<br>
-![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/consulta_medicoXviagem.png "MEDICOxVIAGEM")
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/consulta_medicoXviagem.png "MEDICOS COM DISPONIBIIDADE PARA VIAGEM")
 ####9.4	CONSULTAS QUE USAM OPERADORES LIKE<br>
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/consulta_doen%C3%A7aXinfe.png "DOENÇAS RELACIONADAS A INFECÇÃO")
+
 ####9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS<br>
 ####9.6	CONSULTAS COM JUNÇÃO<br>
 ####9.7	CONSULTAS COM GROUP BY<br>
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/cosulta_nivelXvagas.png "NUMERO DE VAGAS POR NIVEL DE NECESSIDADE")
 ####9.8	CONSULTAS COM LEFT E RIGHT JOIN<br>
 ####9.9	CONSULTAS COM SELF JOIN E VIEW<br>
 ####9.10	SUBCONSULTAS<br>
