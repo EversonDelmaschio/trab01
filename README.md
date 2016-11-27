@@ -24,7 +24,7 @@ para viagem ou realocação. Caso um médico seja solicitado ele irá receber um
 Os administradores podem ter acessos a relatórios. Entre os relatórios é importante saber: quais cidades possuem alguma emergência, quais emergências estão sendo atendidas, os médicos que possuem registro militar entre outros. <br>
 
 ###4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20Inicial.png "Tela Inicial")
+![Alt text](https://github.com/edsonsb96/trab01/blob/master/Tela%20Inicial.png "Tela Inicial")<br>
 [Mockup do projeto](https://github.com/EversonDelmaschio/trab01/blob/master/projeto%20BD.bmpr)
 
 
@@ -40,10 +40,9 @@ Os administradores podem ter acessos a relatórios. Entre os relatórios é impo
 
 ####5.2 DECISÕES DE PROJETO<br>
     [atributo]: [descrição da decisão]
-    Registro Militar: Optamos por incluir uma tabela que armazena-se o registro militar dos médicos pois, em caso de emergencia poderia-    se buscar os médicos reservistar do exercito.
+    Registro Militar: Optamos por incluir uma tabela que armazena-se o registro militar dos médicos pois, em caso de emergencia poderia-     se buscar os médicos reservistar do exercito.
     
     Vaga.qtd_medicos: Este atributo identifica a quantidade de medicos necessarios para o atendimento da vaga. Foi decidido que o           controle da quantidade de médicos que poderam se relacionar com a vaga será feito pela aplicação. 
-    
     
     /*
     EXEMPLO:
@@ -95,8 +94,8 @@ Os administradores podem ter acessos a relatórios. Entre os relatórios é impo
    resgistro: indica o registro militar do relacionado ao médico.
    
    Administardor: Tabela que armazena os dados do usuario "administardor"
-   nome: indica o nome do usuario
-   registro: indica o registro do usuario no SUS.
+   id: Código indentificador do registro.
+   registro_sus: indica o registro do usuario no SUS.
    login: nome de usuario para acesso ao sistema
    senha: código do usuaroi para validação do acesso.
    
@@ -119,9 +118,6 @@ Os administradores podem ter acessos a relatórios. Entre os relatórios é impo
    cod_medico: código identificador do médico
    cod_vaga: código identificador da vaga.
    id: Código identificador do registro do atendimento a vaga. 
-   
-   
-   
    
    
     EXEMPLO:
