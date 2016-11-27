@@ -175,12 +175,19 @@ na pasta acima segue algumas alterações que foram reaizadas.
 ![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/consulta_doen%C3%A7aXinfe.png "DOENÇAS RELACIONADAS A INFECÇÃO")
 
 ####9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS<br>
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/consulta_Update.jpg "CORREÇÃO DA DESCRIÇÃO DE TIPO DE REQUISICAO")
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/consulta_Update2.png "VERSÃO CORRIGIDA")
+
 ####9.6	CONSULTAS COM JUNÇÃO<br>
 ####9.7	CONSULTAS COM GROUP BY<br>
 ![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/cosulta_nivelXvagas.png "NUMERO DE VAGAS POR NIVEL DE NECESSIDADE")
 ####9.8	CONSULTAS COM LEFT E RIGHT JOIN<br>
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/consulta_left_join.png "MEDICOS SEM HISTORICO DE ATENDIMENTO")
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/consulta_right_join.png "VAGAS QUE NAO FORAM ATENDIDAS")
 ####9.9	CONSULTAS COM SELF JOIN E VIEW<br>
 ####9.10	SUBCONSULTAS<br>
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/consulta_SubConsulta.png "VAGAS DE ALTA PRIORIDADE COM 10+ CASOS")
+
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 ###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 ###12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
