@@ -21,13 +21,14 @@ CREATE TABLE Adiministrador (
 id SERIAL PRIMARY KEY,
 login VARCHAR(50),
 senha VARCHAR(10),
-registro_sus INTEGER;
+registro_sus INTEGER);
 
 CREATE TABLE Médico (
 registro_conselho INTEGER,
 nome VARCHAR(200),
 id SERIAL PRIMARY KEY,
 disponibilidade VARCHAR(30),
+crm varchar(10),
 qtd_atendimento INTEGER,
 data_alocacao DATE,
 data_nascimento DATE,
@@ -63,9 +64,9 @@ CREATE TABLE Historico (
 data DATE,
 cod_medico INTEGER,
 cod_vaga INTEGER,
-id integer SERIAL PRIMARY KEY,
-FOREIGN KEY(cod_vaga) REFERENCES Vaga (id)
-FOREIGN KEY(cod_médico) REFERENCES médico (id));
+id SERIAL PRIMARY KEY,
+FOREIGN KEY(cod_vaga) REFERENCES Vaga (id),
+FOREIGN KEY(cod_medico) REFERENCES médico (id));
 
 CREATE TABLE medico_especialidade (
 cod_especialidade INTEGER,
