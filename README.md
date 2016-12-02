@@ -39,11 +39,11 @@ Os administradores podem ter acessos a relatórios. Entre os relatórios é impo
     [Grupo02] -> [André Barbosa] - Trabalho Validado
 
 ####5.2 DECISÕES DE PROJETO<br>
-    Registro Militar: Optamos por incluir uma tabela que armazena-se o registro militar dos médicos pois, <br>
-    em caso de emergencia poderia-se buscar os médicos reservistar do exercito.
+    Registro Militar: Optamos por incluir uma tabela que armazena-se o registro militar dos médicos pois,
+    em caso de emergencia poderia-se buscar os médicos reservistar do exercito.<br>
     
     Vaga.qtd_medicos: Este atributo identifica a quantidade de medicos necessarios para o atendimento da vaga.<br>
-    Foi decidido que o controle da quantidade de médicos que poderam se relacionar com a vaga será feito pela aplicação. 
+    Foi decidido que o controle da quantidade de médicos que poderam se relacionar com a vaga será feito pela aplicação.<br> 
     
     
 ####5.3 DESCRIÇÃO DOS DADOS <br>
