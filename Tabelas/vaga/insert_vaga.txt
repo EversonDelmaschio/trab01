@@ -1,7 +1,7 @@
 delete from vaga;
 insert into vaga (id,descricao,nivel_requisicao,tipo_requisicao,data,cod_localidade, cod_especialidade, cod_administrador, cod_doenca,qtd_casos,qtd_medico,qtd_atendimento) 
 values
-(0,'posto Original','pequena','cadastro','2010/11/25','5566','8', '1', '162',1,1,1), 
+(0,'posto Original','Baixa','cadastro','2010/11/25','5566','8', '1', '162',1,1,1), 
 (1,'Insuficiência cardíaca','Alta','Emergência','2016/11/25','2102','7', '1', '12',10,2,12),
 (2,'Insuficiência respiratória','Média','Realocação','2016/12/12','2104','10', '2', '24',2,1,4),
 (3,'Crise de gripe aviária','Alta','Emergência','2017/01/01','2106','13', '3', '36',50,10,60),

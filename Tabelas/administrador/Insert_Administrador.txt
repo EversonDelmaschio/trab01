@@ -1,0 +1,9 @@
+INSERT INTO adiministrador (login, senha, registro_sus) VALUES 
+('tecnicoMs16@sus.com', 'ms123',290341),
+('tecnicoMs12@sus.com','ms12142',280321),
+('tecnicoMs09@sus.com','ms1983',290211),
+('tecnicoMs19@sus.com','ms9283',290312),
+('tecnicoMs23@sus.com','ms233',180341),
+('tecnicoMs05@sus.com','ms9763',230121),
+('tecnicoMs25@sus.com', 'ms1233',29121);
+
