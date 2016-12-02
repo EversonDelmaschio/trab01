@@ -44,15 +44,9 @@ Os administradores podem ter acessos a relatórios. Entre os relatórios é impo
     
     Vaga.qtd_medicos: Este atributo identifica a quantidade de medicos necessarios para o atendimento da vaga. Foi decidido que o           controle da quantidade de médicos que poderam se relacionar com a vaga será feito pela aplicação. 
     
-    /*
-    EXEMPLO:
-    a) Campo endereço: em nosso projeto optamos por um campo multivalorado e composto, pois a empresa 
-    pode possuir para cada departamento mais de uma localização... 
-    b) justifique!
-    */
-
+    
 ####5.3 DESCRIÇÃO DOS DADOS <br>
-    //[objeto]: [descrição do objeto]
+ 
    Medico : Tabela que Armazena as informações relativas aos médicos
    id: Código identificador do resgistro do médico
    nome: Nome do médico
@@ -119,11 +113,6 @@ Os administradores podem ter acessos a relatórios. Entre os relatórios é impo
    cod_vaga: código identificador da vaga.
    id: Código identificador do registro do atendimento a vaga. 
    
-   
-    EXEMPLO:
-    CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
-    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
-
 ###6	MODELO LÓGICO<br>
 ![Alt text](https://github.com/edsonsb96/trab01/blob/master/trab-final-logico.jpg "Modelo Lógico")
 
@@ -135,6 +124,7 @@ Os administradores podem ter acessos a relatórios. Entre os relatórios é impo
 ####8.1 DETALHAMENTO DAS INFORMAÇÕES<br>
 Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
 Referenciar todas as fontes referentes a :<br>
+
 a) obtenção dos dados<br>
 A obtenção dos dados foi feita através da extração de informações disponilizadas pelos sites do 
 IBGE e MINISTÉRIO DA SAUDE por meio de planilhas. Foi utilizado um programa em Java para fazer 
