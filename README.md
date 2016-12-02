@@ -152,7 +152,7 @@ Base de dados: [Base de Dados](https://github.com/EversonDelmaschio/trab01/tree/
         
 ####8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS<br>
 a) inclusão das instruções para criação das tabelas e estruturas de amazenamento do BD<br>
-As instruções utilizadas seguem acima no modelo Fisico apresentado.
+[INSERT_GERAL](https://github.com/EversonDelmaschio/trab01/blob/master/Tabelas/Insert_Geral.txt)
 
 b) inclusão das instruções de inserção dos dados nas referidas tabelas<br>
 segue a baixo uma pasta com os arquivos .txt dos insert's aplicados nas tabelas.
@@ -167,6 +167,7 @@ na pasta acima segue algumas alterações que foram reaizadas.
 
 ####9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS<br>
 ![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/consulta_vaga.png "VAGAS")
+![TELAS](https://github.com/EversonDelmaschio/trab01/tree/master/telas)
 ####9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE<br>
 ![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/especialidadeXestado.png "ESPECIALIDADES POR ESTADO")
 ####9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS<br>
