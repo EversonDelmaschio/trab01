@@ -157,9 +157,39 @@ na pasta acima segue algumas alterações que foram reaizadas.
 ###9	TABELAS E PRINCIPAIS CONSULTAS<br>
 
 ####9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS<br>
-Link para visualização das telas:
-[TELAS](https://github.com/EversonDelmaschio/trab01/new/master)
 
+select * from Vagas;
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/consulta_vaga.png "VAGAS")
+
+select * from Adiministrador;
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/telas/Administrador.png "Administrador")
+
+select * from Médico;
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/telas/medico.png "Médico")
+
+select * from Historico;
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/telas/Historico.png "Historico")
+
+select * from Especialidade;
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/telas/Especialidade.png "Especialidade")
+
+select * from Doença;
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/telas/doenca.png "Doença")
+
+select * from Especialidade_Doenca;
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/telas/Especialidade_doenca.png "Especialidade_doenca")
+
+select * from Estado;
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/telas/Estado.png "Estado")
+
+select * from Localidade;
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/telas/Localidade.png "Localidade")
+
+select * from Medico_Especialidade;
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/telas/Medico_Especialidade.png "Medico_Especialidade")
+
+select * from Registro_Militar;
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/telas/Registro_Militar.png "Registro_Militar")
 
 TODAS AS TELAS: [TELAS](https://github.com/EversonDelmaschio/trab01/tree/master/telas)
 ####9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE<br>
