@@ -1,0 +1,32 @@
+select * from Vagas;
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/consulta_vaga.png "VAGAS")
+
+select * from Adiministrador;
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/consulta_vaga.png "Administrador")
+
+select * from Médico
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/consulta_vaga.png "Médico")
+
+select * from Historico
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/consulta_vaga.png "Historico")
+
+select * from Especialidade
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/consulta_vaga.png "Especialidade")
+
+select * from Doença
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/consulta_vaga.png "Doença")
+
+select * from Especialidade_Doenca
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/consulta_vaga.png "Especialidade_doenca")
+
+select * from Estado
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/consulta_vaga.png "Estado")
+
+select * from Localidade
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/consulta_vaga.png "Localidade")
+
+select * from Medico_Especialidade
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/consulta_vaga.png "Medico_Especialidade")
+
+select * from Registro_Militar
+![Alt text](https://github.com/EversonDelmaschio/trab01/blob/master/consulta_vaga.png "Registro_Militar")
