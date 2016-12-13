@@ -22,11 +22,11 @@ Segue o link com o código utilizado.
 ###4 INSERÇÃO E ANALISE DOS DADOS<br>
 o processo de inserção consistiu basicamente na filtragem de tweets repetidos
 e na busca por informações relevantes.
-em destaque estão:
-"Google lança app que compartilha sua localização em casos de emergência"
-"Governo de Roraima decretará emergência em saúde pública."
-"Brasil mantém emergência nacional em saúde pública por causa da zika"
-para obtenção dos arquivos de insert baixe:
+em destaque estão:<br>
+"Google lança app que compartilha sua localização em casos de emergência"<br>
+"Governo de Roraima decretará emergência em saúde pública."<br>
+"Brasil mantém emergência nacional em saúde pública por causa da zika"<br>
+para obtenção dos arquivos de insert baixe:<br>
 [MATERIAL COMPLETO](https://github.com/EversonDelmaschio/trab01/blob/master/TRABALHO2/Twitter.rar)
 
 ###5 SLIDES<br>
@@ -35,16 +35,16 @@ para obtenção dos arquivos de insert baixe:
 
 ###6 DIFICULDADES<br>
 
--Compreensão e aplicação da biblioteca
--As bibliotecas possuíam alguns problemas
--Armazenamento dos dados(Foi necessário localizar uma biblioteca específica para tal.)
--Tratamento do texto
+-Compreensão e aplicação da biblioteca<br>
+-As bibliotecas possuíam alguns problemas<br>
+-Armazenamento dos dados(Foi necessário localizar uma biblioteca específica para tal.)<br>
+-Tratamento do texto<br>
 
 ###7 FONTES<br>
-http://www.tweepy.org/
-http://www.eduardosan.com/2015/06/09/extraindo-dados-de-redes-sociais-com-python/
-https://github.com/bear/python-twitter
-https://docs.python.org/2/library/codecs.html
+http://www.tweepy.org/<br>
+http://www.eduardosan.com/2015/06/09/extraindo-dados-de-redes-sociais-com-python/<br>
+https://github.com/bear/python-twitter<br>
+https://docs.python.org/2/library/codecs.html<br>
 
 
 
