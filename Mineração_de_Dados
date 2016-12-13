@@ -16,7 +16,7 @@ nossa aplicação está de acordo com as necessidades e desejos do público em g
 ###3 PROCESSO DE MINERAÇÃO<br>
 Para o processo de mineração foi utilizado a bibliotec tweepy.
 Segue o link com o código utilizado.
-
+[CODIGO](https://github.com/EversonDelmaschio/trab01/blob/master/TRABALHO2/Twitter.rar)
 
 
 ###4 INSERÇÃO E ANALISE DOS DADOS<br>
@@ -26,9 +26,11 @@ em destaque estão:
 "Google lança app que compartilha sua localização em casos de emergência"
 "Governo de Roraima decretará emergência em saúde pública."
 "Brasil mantém emergência nacional em saúde pública por causa da zika"
+para obtenção dos arquivos de insert baixe:
+[MATERIAL COMPLETO](https://github.com/EversonDelmaschio/trab01/blob/master/TRABALHO2/Twitter.rar)
 
 ###5 SLIDES<br>
-
+[SLIDES](https://github.com/EversonDelmaschio/trab01/tree/master/TRABALHO2/SLIDES)
 
 
 ###6 DIFICULDADES<br>
