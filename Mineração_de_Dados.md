@@ -16,7 +16,7 @@ nossa aplicação está de acordo com as necessidades e desejos do público em g
 ###3 PROCESSO DE MINERAÇÃO<br>
 Para o processo de mineração foi utilizado a bibliotec tweepy.
 Segue o link com o código utilizado.<br>
-[CODIGO](https://github.com/EversonDelmaschio/trab01/blob/master/TRABALHO2/Twitter.rar)
+[CODIGO](https://github.com/EversonDelmaschio/trab01/blob/master/TRABALHO2/Twitter.rar)<br>
 [CODIGO_OPÇÃO2](https://github.com/EversonDelmaschio/trab01/blob/master/TRABALHO2/Twitter.zip)
 
 
