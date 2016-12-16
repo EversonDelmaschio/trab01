@@ -193,4 +193,4 @@ e algumas especialidades, não havia nada que conecta-se essas informações.
 
 
 ###13 TRABALHO2 - MINERAÇÃO DE DADOS:
-[TRABALHO2](https://github.com/EversonDelmaschio/trab01/blob/master/Minera%C3%A7%C3%A3o_de_Dados)
+[TRABALHO2](https://github.com/EversonDelmaschio/trab01/blob/master/Minera%C3%A7%C3%A3o_de_Dados.md)
